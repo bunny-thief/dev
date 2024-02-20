@@ -8,7 +8,7 @@ This project can be used to follow along with a guide from my blog titled: *Spri
 
 ## Getting Started
 
-Follow these steps to compile and run the application:
+Follow these steps to run the application:
 1. Clone the project.
 
 ```agsl
@@ -44,4 +44,4 @@ This API endpoint is used to demonstrate how a change made in the application co
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
