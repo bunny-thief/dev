@@ -12,7 +12,7 @@ Follow these steps to run the application:
 1. Clone the project.
 
 ```agsl
-git clone git@github.com:bunny-thief/devtools-demo.git
+git clone git@github.com:jacques-navarro/devtools-demo.git
 ```
 2. `cd` into the project directory.
 
